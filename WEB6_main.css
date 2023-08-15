@@ -20,6 +20,7 @@ header{
     font-size: 24px;
     text-align: center;
     line-height: 75px;
+    
     background: rgb(114, 178, 238);
     user-select: none;
     color: rgb(24, 23, 23);
@@ -32,5 +33,6 @@ ul li a{
     font-size: 17px;
     color: rgb(49, 48, 48);
     padding-left: 25px;
+    
     box-sizing: border-box;
 }
